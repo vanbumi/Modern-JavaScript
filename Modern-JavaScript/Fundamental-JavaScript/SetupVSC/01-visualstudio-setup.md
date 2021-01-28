@@ -12,7 +12,7 @@
 
 Link download: code.visualstudio.com/download
 
-![download-vsc](/Users/dyo-medio/Documents/Training/Project-Youtube/JavaScript/JS-Fundamental/SetupVSC/images/download-vsc.png)
+![download-vsc](images/download-vsc.PNG)
 
 
 
