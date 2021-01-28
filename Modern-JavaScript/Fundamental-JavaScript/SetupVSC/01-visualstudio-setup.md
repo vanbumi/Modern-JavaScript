@@ -18,7 +18,7 @@ Link download: code.visualstudio.com/download
 
 #### Setup
 
-![setting-vsc](/Users/dyo-medio/Documents/Training/Project-Youtube/JavaScript/JS-Fundamental/SetupVSC/images/setting-vsc.png)
+![setting-vsc](images/setting-vsc.png)
 
 * Klik File > Preferences > Settings
 	* Search: font size > isi ukuran font sesuai dengan keinginan anda, kalau saya: 14.
@@ -32,23 +32,23 @@ Link download: code.visualstudio.com/download
 	
 	  
 	
-	  ![live-server](/Users/dyo-medio/Documents/Training/Project-Youtube/JavaScript/JS-Fundamental/SetupVSC/images/live-server.png)
+	  ![live-server](images/live-server.png)
 	
 	  
 	
 	* Bracket Pair Colorizer, by CoenraadS
 	
-	  ![bracket-color](/Users/dyo-medio/Documents/Training/Project-Youtube/JavaScript/JS-Fundamental/SetupVSC/images/bracket-color.png)
+	  ![bracket-color](images/bracket-color.png)
 	
 	  
 	
 	* Javascript (es6) code snippets, by Charalampos karypidis.
 	
-	  ![js-es6-snippets](/Users/dyo-medio/Documents/Training/Project-Youtube/JavaScript/JS-Fundamental/SetupVSC/images/js-es6-snippets.png)
+	  ![js-es6-snippets](images/js-es6-snippets.png)
 	
 	  
 	
-	* Prettier Code Formatter, by Prettier. 	  ![prettier](/Users/dyo-medio/Documents/Training/Project-Youtube/JavaScript/JS-Fundamental/SetupVSC/images/prettier.png)
+	* Prettier Code Formatter, by Prettier. 	  ![prettier](images/prettier.png)
 
 
 
