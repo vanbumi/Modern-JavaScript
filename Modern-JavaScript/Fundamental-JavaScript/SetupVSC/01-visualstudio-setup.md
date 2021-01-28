@@ -46,7 +46,8 @@ Link download: code.visualstudio.com/download
 	
 	  ![js-es6-snippets](images/js-es6-snippets.png)
 	
-	  
+	
+	
 	
 	* Prettier Code Formatter, by Prettier. 	  ![prettier](images/prettier.png)
 
@@ -54,9 +55,7 @@ Link download: code.visualstudio.com/download
 
 
 
----
-
-### Mediocademy
+### 
 
 
 
